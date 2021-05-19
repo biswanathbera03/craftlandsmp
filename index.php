@@ -73,7 +73,7 @@
     </nav>
 
     <div class="gif">
-        <img src="20210519_195208.gif" alt="" class="gif2">
+        <img src="banner.png" alt="" class="gif2">
     </div>
     <div class="heading">
         <div class="html-rainbow-text" style="text-align: center;">
