@@ -1,0 +1,41 @@
+.gif2{
+padding-top: 80px;
+width: 2000px;
+height: 800px;
+
+}
+
+.heading
+{
+    /* color: linear-gradient(to bottom, red, orange , yellow, green, cyan, blue, violet); */
+    /* background-color: rgb(107, 112, 112); */
+    padding: 20px;
+    padding-top: 80px;
+    
+    font-size: 300%;
+    
+   
+    text-align: center;
+    /* font-family: 'Goblin One', cursive; */
+}
+
+.html-rainbow-text span {
+	font-family: 'VT323', monospace;
+	display: inline-block;
+	font-weight: bold;
+    font-size: 200%;
+	text-shadow: rgba(163, 163, 163, 0.77) 3px 3px 4px;
+}
+
+#player
+{
+    font-family: 'VT323', monospace; 
+}
+ 
+#fontw{
+    font-size: 120%;
+}
+#foot{
+    background-color: rgba(90, 204, 204, 0.822);
+}
+  
