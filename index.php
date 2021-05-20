@@ -73,7 +73,7 @@
     </nav>
 
     <div class="gif">
-        <img src="banner.png" alt="" class="gif2">
+        <img src="Ultra final.gif" alt="" class="gif2">
     </div>
     <div class="heading">
         <div class="html-rainbow-text" style="text-align: center;">
